@@ -1,6 +1,21 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [4.0.0](https://github.com/rewardops/ember-react-components/compare/v3.0.2...v4.0.0) (2021-06-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Node v10 support
+* Drop support for Ember less than v3.13
+
+### Features
+
+* add optional Ember mixin props to decorator ([cba7802](https://github.com/rewardops/ember-react-components/commit/cba780250b19c2f1bcf395289d4bae121d6d8a96))
+
+
+* bump Ember to v3.16 ([f1f8591](https://github.com/rewardops/ember-react-components/commit/f1f85914f4a9de50b345928103dcfcfb2b5bbcb5))
 
 <a name="3.0.2"></a>
 ## [3.0.2](https://github.com/alexlafroscia/ember-react-components/compare/v3.0.1...v3.0.2) (2019-11-12)
