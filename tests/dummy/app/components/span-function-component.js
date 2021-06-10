@@ -1,6 +1,6 @@
 // BEGIN-SNIPPET span-function-component.js
 import React from 'react';
-import WithEmberSupport from 'ember-react-components';
+import WithEmberSupport from '@rewardops-forks/ember-react-components';
 
 const SpanFunctionComponent = () => <button>Button wrapped in a span</button>;
 

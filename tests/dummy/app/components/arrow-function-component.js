@@ -1,5 +1,5 @@
 import React from 'react';
-import WithEmberSupport from 'ember-react-components';
+import WithEmberSupport from '@rewardops-forks/ember-react-components';
 
 const ArrowFunctionComponent = ({ children, name }) => {
   return (

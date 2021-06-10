@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import WithEmberSupport from 'ember-react-components';
+import WithEmberSupport from '@rewardops-forks/ember-react-components';
 
 const HooksComponent = () => {
   const [count, setCount] = useState(0);

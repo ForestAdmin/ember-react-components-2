@@ -1,5 +1,5 @@
 {
-  "name": "ember-react-components",
+  "name": "@rewardops-forks/ember-react-components",
   "version": "3.0.2",
   "description": "React component support in Ember",
   "keywords": [
@@ -7,7 +7,7 @@
     "decorator",
     "react"
   ],
-  "repository": "https://github.com/alexlafroscia/ember-react-components",
+  "repository": "https://github.com/rewardops/ember-react-components",
   "license": "MIT",
   "author": "",
   "directories": {

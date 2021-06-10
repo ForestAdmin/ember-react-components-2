@@ -1,6 +1,6 @@
 // BEGIN-SNIPPET span-class-component.js
 import React from 'react';
-import WithEmberSupport from 'ember-react-components';
+import WithEmberSupport from '@rewardops-forks/ember-react-components';
 
 @WithEmberSupport({ tagName: 'span' })
 export default class SpanClassComponent extends React.Component {

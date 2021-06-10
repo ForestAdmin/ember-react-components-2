@@ -1,6 +1,8 @@
 ember-react-components
 ==============================================================================
 
+Forked from [alexlafroscia/ember-react-components](https://github.com/alexlafroscia/ember-react-components).
+
 [![Build Status](https://travis-ci.org/alexlafroscia/ember-react-components.svg?branch=master)](https://travis-ci.org/alexlafroscia/ember-react-components)
 
 > Consume React components in Ember
@@ -11,7 +13,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```bash
-ember install ember-react-components @ember-decorators/babel-transforms
+ember install @rewardops-forks/ember-react-components @ember-decorators/babel-transforms
 ```
 
 Compatibility
@@ -31,7 +33,7 @@ As an example, you can create a component like this:
 ```javascript
 // app/components/my-react-component.js
 import React from 'react';
-import WithEmberSupport from 'ember-react-components';
+import WithEmberSupport from '@rewardops-forks/ember-react-components';
 
 @WithEmberSupport
 export default class extends React.Component {
@@ -61,7 +63,7 @@ Options
 ```javascript
 // ember-cli-build.js
 let app = new EmberApp(defaults, {
-  'ember-react-components': {
+  '@rewardops-forks/ember-react-components': {
     outputFile: '/assets/react.js'
   }
 });

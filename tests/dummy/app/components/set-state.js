@@ -1,5 +1,5 @@
 import React from 'react';
-import WithEmberSupport from 'ember-react-components';
+import WithEmberSupport from '@rewardops-forks/ember-react-components';
 
 @WithEmberSupport
 export default class WithSetState extends React.Component {

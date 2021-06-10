@@ -1,6 +1,6 @@
 // BEGIN-SNIPPET using-service.js
 import React from 'react';
-import WithEmberSupport from 'ember-react-components';
+import WithEmberSupport from '@rewardops-forks/ember-react-components';
 import { inject as service } from '@ember/service';
 
 @WithEmberSupport

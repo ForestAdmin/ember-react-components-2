@@ -8,7 +8,7 @@ Update your `EmberApp` in `ember-cli-build` by setting the file you wish `react`
 ```javascript
 // ember-cli-build.js
 let app = new EmberApp(defaults, {
-  'ember-react-components': {
+  '@rewardops-forks/ember-react-components': {
     outputFile: '/assets/react.js'
   }
 });
