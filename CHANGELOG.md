@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.1](https://github.com/rewardops/ember-react-components/compare/v4.0.0...v4.0.1) (2021-06-11)
+
+
+### Bug Fixes
+
+* improve decorator detection in HOF ([bf28b5c](https://github.com/rewardops/ember-react-components/commit/bf28b5c72aa14caf71fa1aaad30c87e848b1ae33))
+
 ## [4.0.0](https://github.com/rewardops/ember-react-components/compare/v3.0.2...v4.0.0) (2021-06-10)
 
 
