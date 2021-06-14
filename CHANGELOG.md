@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.2](https://github.com/rewardops/ember-react-components/compare/v4.0.1...v4.0.2) (2021-06-14)
+
+
+### Bug Fixes
+
+* account for Ember `enumerableSymbol` `MutableCell`s ([56ecdac](https://github.com/rewardops/ember-react-components/commit/56ecdac2d673defff7de01fadf70b0bd63494a30))
+
 ### [4.0.1](https://github.com/rewardops/ember-react-components/compare/v4.0.0...v4.0.1) (2021-06-11)
 
 
