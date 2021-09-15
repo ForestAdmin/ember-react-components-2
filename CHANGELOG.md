@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.3](https://github.com/rewardops/ember-react-components/compare/v4.0.2...v4.0.3) (2021-09-15)
+
+
+### Bug Fixes
+
+* handle Ember `hash` template helper props ([657869c](https://github.com/rewardops/ember-react-components/commit/657869c0bffd9cd996be41571b5c294d48412e1a))
+
 ### [4.0.2](https://github.com/rewardops/ember-react-components/compare/v4.0.1...v4.0.2) (2021-06-14)
 
 
