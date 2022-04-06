@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/rewardops/ember-react-components/compare/v4.0.2...v4.1.0) (2022-04-06)
+
+
+### Features
+
+* add global React hooks test support helper ([e1809ec](https://github.com/rewardops/ember-react-components/commit/e1809eca7f8515806ab3085e8d7b94f0911a42bd))
+
 ### [4.0.3](https://github.com/rewardops/ember-react-components/compare/v4.0.2...v4.0.3) (2021-09-15)
 
 
